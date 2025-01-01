@@ -15,11 +15,10 @@
     content: attr(data-label);
     color: white;
     background: rgb(0, 88, 216);
-    padding: 15px;
-    font-size: 50px;
-    top:-50px;
-    left: -50px;
-    z-index: 2
+    padding: 10px;
+    top: -10px;
+    left: -10px;
+    z-index: 2;
 }
 
 .dis-c {
@@ -27,18 +26,15 @@
 }
 
 body {
-    background-color:#f2f2e2;
+    background-color: #f2f2e2;
 }
 
-
+.new-year-coming {
+    font-family: ff1;
 
     position: absolute;
-    color: #f2f2e2;
+    color: white;
     background: rgb(0, 88, 216);
-    padding: 5px;
-    font-size: 11px;
-    top: 1%;
-    left: 1%;
+    padding: 12px;
     z-index: 2;
-    z-index: 2
 }
